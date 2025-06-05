@@ -22,7 +22,7 @@ import '././assets/css/animate.css';
 import '././assets/css/style.min.css';
 import Home from './home/Home.jsx';
 import Blog from './blog/Blog.jsx';
-import Shop from './Shop.jsx'
+import Shop from './shop/Shop.jsx'
 const router = createBrowserRouter([
   {
     path: '/',
